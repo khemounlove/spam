@@ -1,0 +1,8 @@
+{
+  "name": "FB-Pulse: Elite Growth Dashboard",
+  "description": "A high-fidelity social media growth simulator and dashboard designed to visualize profile expansion, audit engagement, and simulate follower acquisition strategies.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
